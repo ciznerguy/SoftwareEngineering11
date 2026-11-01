@@ -18,7 +18,7 @@
 
 | יחידה | נושא | קוד | מדריך |
 |---|---|---|---|
-| 1 | חזרה על Blazor: Razor, קלט, אירועים וניתוב | בקרוב | בקרוב |
+| 1 | חזרה על Blazor: Razor, קלט, אירועים וניתוב | בקרוב | [מדריך חזרה על Blazor](https://github.com/ciznerguy/SoftwareEngineering11/releases/download/v1/unit1-blazor-review-guide.pdf) |
 | 2 | בסיס נתונים MySQL ושפת SQL: יצירת הטבלאות של MixTape, כולל טבלת המשתמשים, ושאילתות | בקרוב | בקרוב |
 | 3 | מחלקה פשוטה ונתונים מהמסד: Song ב-Models, שליפה מ-MySQL ב-Data והצגה בדף | בקרוב | בקרוב |
 | 4 | שירות API באותו פרויקט: GET, POST ו-CRUD | בקרוב | בקרוב |
